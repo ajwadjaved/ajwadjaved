@@ -8,4 +8,4 @@ Here are my [notes and exam solutions](https://github.com/ajwadjaved/AWS-SAA-C02
 
 I'm currently playing
   
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&redirect=true)
