@@ -6,4 +6,9 @@
 
 Here are my [notes and exam solutions](https://github.com/ajwadjaved/AWS-SAA-C02) for the AWS SAA-C02 certification in case they can help you in any way!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&redirect=true)
+[![<div style="text-align: right;">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=orxk179az6jduhnsyfz13bm10&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile" />
+  </a>
+</div>
+]]
